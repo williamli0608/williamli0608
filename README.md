@@ -1,4 +1,4 @@
-# Hi, I'm William!  
+
 [![GitHub followers](https://img.shields.io/github/followers/williamli0608?style=social)](https://github.com/williamli0608)
 
 I have worked on large-scale web applications in e-commerce, healthcare, AI and other industries. 

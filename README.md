@@ -18,7 +18,8 @@ Lately, I’ve developed a strong interest in AI and machine learning. Currently
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 #### **Backend**  
